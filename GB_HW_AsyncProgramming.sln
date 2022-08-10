@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork_1", "HomeWork_1\Ho
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork_1_AsyncAwait", "HomeWork_1_AsyncAwait", "{26CD7ABB-934E-49F0-8821-F02E5A0B5987}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Develope_REST_API", "Develope_REST_API\Develope_REST_API.csproj", "{CF13A890-9763-4AB6-B24A-C8517974198B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{97067F91-2C5B-43C8-9784-EDEEDC45C723}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97067F91-2C5B-43C8-9784-EDEEDC45C723}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97067F91-2C5B-43C8-9784-EDEEDC45C723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF13A890-9763-4AB6-B24A-C8517974198B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF13A890-9763-4AB6-B24A-C8517974198B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF13A890-9763-4AB6-B24A-C8517974198B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF13A890-9763-4AB6-B24A-C8517974198B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
